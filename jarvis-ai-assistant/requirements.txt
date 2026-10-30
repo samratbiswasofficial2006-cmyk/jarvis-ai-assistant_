@@ -1,0 +1,7 @@
+# Core text mode uses only the Python standard library.
+# Optional voice mode:
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+PyAudio>=0.2.14
+# Optional AI chat:
+openai>=1.40.0
